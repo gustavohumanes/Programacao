@@ -1,0 +1,30 @@
+OBJETIVO:
+Compreender os fundamentos da linguagem C++
+e suas seguintes tecnologias fundamentais
+
+
+------------------------------
+----- VALORES PRIMITIVOS -----
+int = númericos inteiros ( | Ex: [...], -2, -1, 0, 1, 2, 3, [...] | )
+float = númericos decimais ( | Ex: [...], -2.5, -1.5, -0.2, 1.7, 2.8, 3.4, [...] | )
+string ou char[] = texto ( | Ex: " Eu sou um programador iniciante " | )
+char = caracter ( | Ex: 'a' | )
+
+
+----------------------------------------
+----- COMANDOS DE ENTRADA E SAIDA ------
+cout para imprimir texto
+cin para receber dados
+
+
+----------------------------------------
+----- OPERADORES ARITMETICOS ------
++, -, / e -
+
+
+-------------------------------------------------------------
+---- COMPREENSÃO DE SINTAXE E FUNCIONAMENTO DO C++ COMO -----
+#include
+<iostream>
+main()
+return 0;
